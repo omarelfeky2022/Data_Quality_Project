@@ -54,3 +54,6 @@ Ensure the following are installed:
   - pandas - For data manipulation and analysis.
   - matplotlib and seaborn - For data visualization.
   - openpyxl - For handling Excel files.
+
+    
+https://github.com/user-attachments/assets/78d0c2e3-8682-474a-97ac-fdf2d32a4717
